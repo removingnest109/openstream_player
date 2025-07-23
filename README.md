@@ -1,2 +1,4 @@
 # Openstream
-This is a Flutter application for Openstream.
+Flutter client for Openstream
+
+**WIP**
