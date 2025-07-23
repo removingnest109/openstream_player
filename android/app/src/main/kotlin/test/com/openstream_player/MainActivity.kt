@@ -1,4 +1,4 @@
-package test.com.flutter_test_1
+package openstream.com.openstream_player
 
 import io.flutter.embedding.android.FlutterActivity
 

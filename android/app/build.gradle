@@ -43,7 +43,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "test.com.flutter_test_1"
+        applicationId "openstream.com.openstream_player"
         minSdkVersion 16
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
