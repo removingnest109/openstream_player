@@ -57,3 +57,5 @@ app.*.map.json
 !.idea/codeStyles/*.xml
 !.idea/runConfigurations/*.xml
 
+ios/Podfile.lock
+pubspec.lock
